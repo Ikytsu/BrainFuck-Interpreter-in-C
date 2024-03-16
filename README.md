@@ -5,8 +5,9 @@ Basic BrainFuck Interpreter written in C, the interpreter is really recent and b
 Must have gcc in PATH and make in PATH, if you are lazy to move it in path, just change the Makefile
 
 **Compilation:**
-To compile the program you must download the tar.gz and extract it. When you are done move the Makefile corresponding to your OS on the main folder.
+First way: To compile the program you must download the tar.gz and extract it. When you are done move the Makefile corresponding to your OS on the main folder.
 Just type make in the directory when you are done.
+Second way: Compile with gcc :)
 
 **Use:**
 To use the program, you only need to type on the terminal:
