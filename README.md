@@ -20,3 +20,6 @@ For cursor of pointer it must be between 0 and 30000 included, but you can chang
 
 **Make:**
 You can also Make clear to clear the files you compiled.
+
+**Credits:**
+If you want to edit the code and republish it, leave credits to me
