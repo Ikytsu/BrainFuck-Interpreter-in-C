@@ -17,3 +17,6 @@ To use the program, you only need to type on the terminal:
 The interpreter give you the choice between -2 147 483 648 and 2 147 483 647 values, so if you have a problem of performance you can change that.
 It's in default bcs that gives more choices.
 For cursor of pointer it must be between 0 and 30000 included, but you can change also if you need.
+
+**Make:**
+You can also Make clear to clear the files you compiled.
