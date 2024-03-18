@@ -1,25 +1,25 @@
-# BrainFuck-Interpreter-in-C
-Basic BrainFuck Interpreter written in C, the interpreter is really recent and basic, any suggestions are welcome. 
+## Prerequisites
 
-**Prerequistes:**
-Must have gcc in PATH and make in PATH, if you are lazy to move it in path, just change the Makefile
+- Ensure `gcc` and `make` are installed and added to your system's PATH.
+- Alternatively (only for make, you still need to have gcc) , download the provided folder (choose the correct os) move the corresponding Makefile to the main folder.
 
-**Compilation:**
-First way: To compile the program you must download the tar.gz and extract it. When you are done move the Makefile corresponding to your OS on the main folder.
-Just type make in the directory when you are done.
-Second way: Compile with gcc :)
+## Compilation
 
-**Use:**
-To use the program, you only need to type on the terminal:
+- **First Way**: Run `make` in the directory after following the second **Prerequisites**. If you want to clear the file of compilation you can run `make clear`
+- **Second Way**: Compile with `gcc`.
+
+## Usage
+
+To execute a BrainFuck program, use the following command in the terminal:
+
 ./brainfuck.exe program_name.bf
 
-**Specificities:**
-The interpreter give you the choice between -2 147 483 648 and 2 147 483 647 values, so if you have a problem of performance you can change that.
-It's in default bcs that gives more choices.
-For cursor of pointer it must be between 0 and 30000 included, but you can change also if you need.
+## Specificities
 
-**Make:**
-You can also Make clear to clear the files you compiled.
+- The interpreter allows values between -2,147,483,648 and 2,147,483,647.
+- The default behavior permits a wide range of choices.
+- Pointer cursor values must be between 0 and 30000.
 
-**Credits:**
-If you want to edit the code and republish it, leave credits to me
+## Credits
+
+If you modify and republish the code, please provide proper credits to me, more informations in the **LICENSE** file.
