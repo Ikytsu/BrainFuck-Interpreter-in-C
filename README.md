@@ -23,3 +23,7 @@ To execute a BrainFuck program, use the following command in the terminal:
 ## Credits
 
 If you modify and republish the code, please provide proper credits to me, more informations in the **LICENSE** file.
+
+## Other
+Make sure to check my Easier-BrainFuck :)
+https://github.com/Ikytsu/Easier-BrainFuck
